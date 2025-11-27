@@ -1,0 +1,13 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "cmake.configureOnOpen": false,
+    "cmake.autoSelectActiveFolder": false,
+    "cmake.showOptionsMovedNotification": false,
+    "extensions.autoCheckUpdates": false,
+    "cmake.options.statusBarVisibility": "hidden",
+    "cmake.options.advanced": {
+        "kit": {
+            "statusBarVisibility": "hidden"
+        }
+    }
+}
