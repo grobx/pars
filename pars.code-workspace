@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "cxx"
+		},
+		{
+			"path": "cxx-template"
 		}
 	],
 	"settings": {

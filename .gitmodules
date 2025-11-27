@@ -2,3 +2,6 @@
 	path = cxx
 	url = git@github.com:grobx/pars-cxx.git
 	branch = dev
+[submodule "cxx-template"]
+	path = cxx-template
+	url = git@github.com:grobx/pars-cxx-template.git
